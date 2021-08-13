@@ -27,3 +27,14 @@
 <a href="https://www.netlify.com/" target="_blank"> <img src="https://www.netlify.com/img/press/logos/logomark.png" alt="netlify" width="30" height="30"/> </a> 
 <a href="https://trello.com/en" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="trello" width="30" height="30"/> </a>
 </p>
+
+<h3 align="left">My Dev Statistics: </h3>
+
+<p>  
+<!-- GitHub Stats -->  
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=mertaktas&&theme=darcula&show_icons=true&hide_border=true" />
+<img height="150em"  src="https://github-readme-streak-stats.herokuapp.com/?user=mertaktas&theme=darcula" alt="mertaktas" />
+
+<!-- Most Used Languages -->  
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertaktas&theme=darcula&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
+</p>
