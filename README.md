@@ -25,7 +25,6 @@
 <a href="https://vercel.com" target="_blank"> <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" alt="discord" width="30" height="30"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a> 
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/> </a> 
-
 <a href="https://axios-http.com" target="_blank"> <img src="https://axios-http.com/assets/logo.svg" width="30" height="30"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a> 
 <a href="https://www.netlify.com/" target="_blank"> <img src="https://www.netlify.com/img/press/logos/logomark.png" alt="netlify" width="30" height="30"/> </a> 
