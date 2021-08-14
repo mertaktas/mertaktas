@@ -41,7 +41,7 @@
 <p>  
 <!-- GitHub Stats -->  
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mertaktas&&theme=darcula&show_icons=true&hide_border=true" />
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mertaktas&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=mertaktas&theme=dracula&hide_border=true" />
 
 <!-- Most Used Languages -->  
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertaktas&theme=darcula&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
