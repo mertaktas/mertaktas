@@ -1,6 +1,4 @@
 ## Hi, I'm Mert <img src="https://raw.githubusercontent.com/mertaktas/mertaktas/master/wave.gif" width="30px">
-A Front End Developer from Rize/Turkey
-
 - 🌱 I’m currently learning **Vue.js, Tailwind.css, Javascript etc.**
 
 - 💬 Ask me about **Javascript, Tailwind.css and Vuejs.**
