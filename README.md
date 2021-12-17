@@ -1,5 +1,5 @@
-<h1 align="center">Hi , I'm Mert <img src="https://raw.githubusercontent.com/mertaktas/mertaktas/master/wave.gif" width="30px"></h1>
-<h3 align="center">A Front End Developer from Rize/Turkey</h3>
+## Hi, I'm Mert <img src="https://raw.githubusercontent.com/mertaktas/mertaktas/master/wave.gif" width="30px">
+A Front End Developer from Rize/Turkey
 
 - 🌱 I’m currently learning **Vue.js, Tailwind.css, Javascript etc.**
 
